@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06427c0c-f5d3-49a5-9808-906fc1f77ac1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/wp-currency-converter/js/wp-currency-cart-converter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/flatsome/woocommerce/cart/cart.php" afterPath="$PROJECT_DIR$/themes/flatsome/woocommerce/cart/cart.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wp-currency-converter/wp-currency-converter.php" afterPath="$PROJECT_DIR$/plugins/wp-currency-converter/wp-currency-converter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wp-currency-converter/wpccCartWidget.php" afterPath="$PROJECT_DIR$/plugins/wp-currency-converter/wpccCartWidget.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wp-currency-converter/wpccShortcode.php" afterPath="$PROJECT_DIR$/plugins/wp-currency-converter/wpccShortcode.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wp-currency-converter/wpccWidget.php" afterPath="$PROJECT_DIR$/plugins/wp-currency-converter/wpccWidget.php" />
     </list>
     <ignored path="timtimtom.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -355,7 +349,13 @@
       <option name="project" value="LOCAL" />
       <updated>1433926058378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="widget update">
+      <created>1433930182991</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1433930182991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -426,7 +426,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="widget update" />
+    <option name="LAST_COMMIT_MESSAGE" value="widget update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
