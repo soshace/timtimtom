@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="06427c0c-f5d3-49a5-9808-906fc1f77ac1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wp-currency-converter/css/wp-currency-converter.css" afterPath="$PROJECT_DIR$/plugins/wp-currency-converter/css/wp-currency-converter.css" />
     </list>
     <ignored path="timtimtom.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,8 +51,8 @@
       <file leaf-file-name="wpccWidget.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/wpccWidget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4" vertical-offset="548" max-vertical-offset="2856">
-              <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+            <state vertical-scroll-proportion="-10.563637" vertical-offset="2054" max-vertical-offset="2856">
+              <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
               <folding>
                 <marker date="1433928181616" expanded="false" signature="1509:1545" placeholder="..." />
                 <marker date="1433928181616" expanded="true" signature="1546:1791" placeholder="..." />
@@ -113,29 +114,28 @@
       <file leaf-file-name="wpccCartWidget.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/wpccCartWidget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.8545456" vertical-offset="328" max-vertical-offset="2839">
-              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+            <state vertical-scroll-proportion="-1.8214285" vertical-offset="544" max-vertical-offset="2839">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
-                <marker date="1433929929658" expanded="false" signature="1529:1565" placeholder="..." />
-                <marker date="1433929929658" expanded="true" signature="1566:1821" placeholder="..." />
-                <marker date="1433929929658" expanded="true" signature="1649:1692" placeholder="..." />
-                <marker date="1433929929658" expanded="true" signature="1830:1915" placeholder="..." />
-                <marker date="1433929929658" expanded="false" signature="2236:2302" placeholder="..." />
-                <marker date="1433929929658" expanded="true" signature="2378:2423" placeholder="..." />
-                <marker date="1433929929658" expanded="true" signature="3899:4163" placeholder="..." />
-                <marker date="1433929929658" expanded="true" signature="4179:4492" placeholder="..." />
-                <marker date="1433929929658" expanded="true" signature="4509:4829" placeholder="..." />
-                <marker date="1433929929658" expanded="true" signature="4846:5156" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="1529:1565" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="1566:1821" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="1649:1692" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="1830:1915" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="2236:2302" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="2378:2423" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="3899:4163" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="4509:4829" placeholder="..." />
+                <marker date="1433931284221" expanded="true" signature="4846:5156" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wp-currency-converter.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wp-currency-converter.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/css/wp-currency-converter.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.2891986" vertical-offset="106" max-vertical-offset="680">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -151,10 +151,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wp-currency-cart-converter.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wp-currency-cart-converter.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/js/wp-currency-cart-converter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46124032" vertical-offset="0" max-vertical-offset="1020">
+            <state vertical-scroll-proportion="-4.1034484" vertical-offset="0" max-vertical-offset="1020">
               <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
               <folding />
             </state>
@@ -175,8 +175,9 @@
         <option value="$PROJECT_DIR$/plugins/wp-currency-converter/wpccShortcode.php" />
         <option value="$PROJECT_DIR$/plugins/wp-currency-converter/wpccWidget.php" />
         <option value="$PROJECT_DIR$/plugins/wp-currency-converter/wp-currency-converter.php" />
-        <option value="$PROJECT_DIR$/plugins/wp-currency-converter/wpccCartWidget.php" />
         <option value="$PROJECT_DIR$/plugins/wp-currency-converter/js/wp-currency-cart-converter.js" />
+        <option value="$PROJECT_DIR$/plugins/wp-currency-converter/wpccCartWidget.php" />
+        <option value="$PROJECT_DIR$/plugins/wp-currency-converter/css/wp-currency-converter.css" />
       </list>
     </option>
   </component>
@@ -355,7 +356,13 @@
       <option name="project" value="LOCAL" />
       <updated>1433930182991</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="widget update">
+      <created>1433930194051</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1433930194051</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -474,33 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/css/wp-currency-converter.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/wpccCartWidget.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.8545456" vertical-offset="328" max-vertical-offset="2839">
-          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-          <folding>
-            <marker date="1433929929658" expanded="false" signature="1529:1565" placeholder="..." />
-            <marker date="1433929929658" expanded="true" signature="1566:1821" placeholder="..." />
-            <marker date="1433929929658" expanded="true" signature="1649:1692" placeholder="..." />
-            <marker date="1433929929658" expanded="true" signature="1830:1915" placeholder="..." />
-            <marker date="1433929929658" expanded="false" signature="2236:2302" placeholder="..." />
-            <marker date="1433929929658" expanded="true" signature="2378:2423" placeholder="..." />
-            <marker date="1433929929658" expanded="true" signature="3899:4163" placeholder="..." />
-            <marker date="1433929929658" expanded="true" signature="4179:4492" placeholder="..." />
-            <marker date="1433929929658" expanded="true" signature="4509:4829" placeholder="..." />
-            <marker date="1433929929658" expanded="true" signature="4846:5156" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/wpccShortcode.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.2545457" vertical-offset="765" max-vertical-offset="2176">
@@ -529,10 +509,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/js/wp-currency-converter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="884">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/js/wp-currency-cart-converter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1034484" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/wpccWidget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4" vertical-offset="548" max-vertical-offset="2856">
-          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        <state vertical-scroll-proportion="-10.563637" vertical-offset="2054" max-vertical-offset="2856">
+          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
           <folding>
             <marker date="1433928181616" expanded="false" signature="1509:1545" placeholder="..." />
             <marker date="1433928181616" expanded="true" signature="1546:1791" placeholder="..." />
@@ -548,18 +544,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/js/wp-currency-converter.js">
+    <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/wpccCartWidget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="884">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="-1.8214285" vertical-offset="544" max-vertical-offset="2839">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1433931284221" expanded="true" signature="1529:1565" placeholder="..." />
+            <marker date="1433931284221" expanded="true" signature="1566:1821" placeholder="..." />
+            <marker date="1433931284221" expanded="true" signature="1649:1692" placeholder="..." />
+            <marker date="1433931284221" expanded="true" signature="1830:1915" placeholder="..." />
+            <marker date="1433931284221" expanded="true" signature="2236:2302" placeholder="..." />
+            <marker date="1433931284221" expanded="true" signature="2378:2423" placeholder="..." />
+            <marker date="1433931284221" expanded="true" signature="3899:4163" placeholder="..." />
+            <marker date="1433931284221" expanded="true" signature="4509:4829" placeholder="..." />
+            <marker date="1433931284221" expanded="true" signature="4846:5156" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/js/wp-currency-cart-converter.js">
+    <entry file="file://$PROJECT_DIR$/plugins/wp-currency-converter/css/wp-currency-converter.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46124032" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.2891986" vertical-offset="106" max-vertical-offset="680">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding />
         </state>
       </provider>
