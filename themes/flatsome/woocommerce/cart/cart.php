@@ -138,7 +138,7 @@ global $woocommerce, $flatsome_opt;
 
 	<div class="coupon">
 		<h3 class="widget-title">How much in my currency?</h3>
-        <?php dynamic_sidebar('sidebar-footer-2'); ?>
+        <?php dynamic_sidebar('cart-currency'); ?>
 		<?php
 //        the_widget('Widget_Cart_WPCC');
         ?>

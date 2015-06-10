@@ -41,20 +41,20 @@ class Widget_Cart_WPCC extends WP_Widget {
 		echo '<form class="woocommerce-ordering custom">';
 
 		echo '<div class="wpcc_tool">';
-		/*<label for="wpcc_currency_from">' . __('From', 'wpcc') . ':</label><br />*/
+		/*<label for="wpcc_cart_currency_from">' . __('From', 'wpcc') . ':</label><br />*/
 		echo '
-		<label for="wpcc_currency_to">' . __('Your Currency', 'wpcc') . ':</label>
+		<label for="wpcc_cart_currency_to">' . __('Your Currency', 'wpcc') . ':</label>
 		<div class="select-wrapper" style="padding:0 0 0 0; margin-top:0 0 0 0;">
-		<select name="wpcc_currency_to" id="wpcc_currency_to" class="orderby">
+		<select name="wpcc_cart_currency_to" id="wpcc_cart_currency_to" class="orderby">
 		' . $to_currency_options . '
 		</select>&nbsp;&nbsp;<img src="' . plugins_url('wp-currency-converter/images/converting.gif') . '" alt="" id="wpcc_converting" />
 		</div>
 		
-		<p><label for="wpcc_currency_amount">' . __('Amount (USD)', 'wpcc') . ':</label>
-		<h3 id="wpcc_currency_amount">30</h3></p>
+		<p><label for="wpcc_cart_currency_amount">' . __('Amount (USD)', 'wpcc') . ':</label>
+		<h3 id="wpcc_cart_currency_amount">0</h3></p>
 		
 		<!-- <p><input type="button" class="button" value="' . __('Convert', 'wpcc') . '" name="wpcc_convert" id="wpcc_convert" />&nbsp;&nbsp;<img src="' . plugins_url('wp-currency-converter/images/converting.gif') . '" alt="" id="wpcc_converting" /></p>-->
-				<select style="visibility:hidden;height:0.01px;margin: 0 0 0 0; padding: 0 0 0 0;"name="wpcc_currency_from" id="wpcc_currency_from" class="orderby">
+				<select style="visibility:hidden;height:0.01px;margin: 0 0 0 0; padding: 0 0 0 0;"name="wpcc_cart_currency_from" id="wpcc_cart_currency_from" class="orderby">
 		' . $from_currency_options . '
 		</select>		
 		</form>

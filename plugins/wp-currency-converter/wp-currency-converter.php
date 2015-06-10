@@ -12,6 +12,7 @@
 *******************************************************************************/
 
 require_once('wpccWidget.php'); // include the widget
+require_once('wpccCartWidget.php'); // include the widget
 require_once('wpccShortcode.php'); // include the shortcode
 
 /*******************************************************************************
@@ -177,6 +178,7 @@ function wpccInit() {
 	
 	if (!is_admin()) {
 		wp_enqueue_script('wp-currency-converter', plugins_url('wp-currency-converter/js/wp-currency-converter.js'), array('jquery'));
+		wp_enqueue_script('wp-currency-cart-converter', plugins_url('wp-currency-converter/js/wp-currency-cart-converter.js'), array('jquery'));
 		wp_enqueue_style('wp-currency-converter', plugins_url('wp-currency-converter/css/wp-currency-converter.css'));
 	}
 }

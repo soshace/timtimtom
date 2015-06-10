@@ -155,6 +155,7 @@ class Widget_WPCC extends WP_Widget {
 
 
 add_action('widgets_init', 'wpccRegisterWidget');
+
 function wpccRegisterWidget() {
     register_widget('Widget_WPCC');
 }
